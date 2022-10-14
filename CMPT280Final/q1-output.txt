@@ -1,0 +1,73 @@
+<-------------- Testing Constructor -------------->
+
+1/: -
+
+<-------------- Testing add() -------------->
+
+-> Adding 1 x1
+-> Adding 2 x2
+-> Adding 3 x3
+-> Adding 4 x4
+-> Adding 5 x5
+-> Adding 6 x6
+-> Adding 7 x7
+
+                        3/0/0: 7(7)
+            2/1/1: 6(6)
+                        3/0/0: 5(5)
+1/2/2: 4(4)
+                        3/0/0: 3(3)
+            2/1/1: 2(2)
+                        3/0/0: 1(1)
+
+<-------------- Testing numberIn() -------------->
+
+Number of copies of 5 in the bag are: 5
+Number of copies of 2 in the bag are: 2
+Number of copies of 7 in the bag are: 7
+Number of copies of 20 in the bag are: 0
+Number of copies of 15 in the bag are: 0
+
+<-------------- Testing remove() -------------->
+
+
+-> Removing 4...
+-> Number of copies of 4 left in the bag are: 3
+
+                        3/0/0: 7(7)
+            2/1/1: 6(6)
+                        3/0/0: 5(5)
+1/2/2: 4(3)
+                        3/0/0: 3(3)
+            2/1/1: 2(2)
+                        3/0/0: 1(1)
+
+-> Removing 6...
+-> Number of copies of 6 left in the bag are: 5
+
+                        3/0/0: 7(7)
+            2/1/1: 6(5)
+                        3/0/0: 5(5)
+1/2/2: 4(3)
+                        3/0/0: 3(3)
+            2/1/1: 2(2)
+                        3/0/0: 1(1)
+
+-> Removing 1...
+-> Number of copies of 1 left in the bag are: 0
+
+                        3/0/0: 7(7)
+            2/1/1: 6(5)
+                        3/0/0: 5(5)
+1/2/2: 4(3)
+                        3/0/0: 3(3)
+            2/0/1: 2(2)
+                        3/: -
+
+-> Removing 12...
+Exception thrown! remove() passed.
+
+-> Removing 10...
+Exception thrown! remove() passed.
+
+Regression testing complete!

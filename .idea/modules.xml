@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A3/A3.iml" filepath="$PROJECT_DIR$/A3/A3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A5-QuestLog-Template/A5-QuestLog-Template.iml" filepath="$PROJECT_DIR$/A5-QuestLog-Template/A5-QuestLog-Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMPT280Final/CMPT280Final.iml" filepath="$PROJECT_DIR$/CMPT280Final/CMPT280Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kruskal-Template/Kruskal-Template.iml" filepath="$PROJECT_DIR$/Kruskal-Template/Kruskal-Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuestPrerequisites-Template/QuestPrerequisites-Template.iml" filepath="$PROJECT_DIR$/QuestPrerequisites-Template/QuestPrerequisites-Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMPT280-lib280/lib280-Master/lib280-Master.iml" filepath="$PROJECT_DIR$/CMPT280-lib280/lib280-Master/lib280-Master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMPT280-lib280/asn3_startercode/lib280-asn3/lib280-asn3.iml" filepath="$PROJECT_DIR$/CMPT280-lib280/asn3_startercode/lib280-asn3/lib280-asn3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMPT280-lib280/asn4-StarterCode/lib280-asn4/lib280-asn4.iml" filepath="$PROJECT_DIR$/CMPT280-lib280/asn4-StarterCode/lib280-asn4/lib280-asn4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMPT280-lib280/asn5-startercode/lib280-asn5/lib280-asn5.iml" filepath="$PROJECT_DIR$/CMPT280-lib280/asn5-startercode/lib280-asn5/lib280-asn5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMPT280-lib280/lib280-asn6/lib280-asn6.iml" filepath="$PROJECT_DIR$/CMPT280-lib280/lib280-asn6/lib280-asn6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMPT280-lib280/asn7-startercode/lib280-asn7/lib280-asn7.iml" filepath="$PROJECT_DIR$/CMPT280-lib280/asn7-startercode/lib280-asn7/lib280-asn7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMPT280-lib280/lib280-asn8/lib280-asn8.iml" filepath="$PROJECT_DIR$/CMPT280-lib280/lib280-asn8/lib280-asn8.iml" />
+    </modules>
+  </component>
+</project>
